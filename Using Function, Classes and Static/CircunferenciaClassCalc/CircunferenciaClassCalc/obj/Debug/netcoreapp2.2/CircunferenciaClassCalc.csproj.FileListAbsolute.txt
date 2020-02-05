@@ -1,0 +1,10 @@
+Z:\Marcelo\Workspaces\VS2019\CircunferenciaClassCalc\CircunferenciaClassCalc\bin\Debug\netcoreapp2.2\CircunferenciaClassCalc.deps.json
+Z:\Marcelo\Workspaces\VS2019\CircunferenciaClassCalc\CircunferenciaClassCalc\bin\Debug\netcoreapp2.2\CircunferenciaClassCalc.runtimeconfig.json
+Z:\Marcelo\Workspaces\VS2019\CircunferenciaClassCalc\CircunferenciaClassCalc\bin\Debug\netcoreapp2.2\CircunferenciaClassCalc.runtimeconfig.dev.json
+Z:\Marcelo\Workspaces\VS2019\CircunferenciaClassCalc\CircunferenciaClassCalc\bin\Debug\netcoreapp2.2\CircunferenciaClassCalc.dll
+Z:\Marcelo\Workspaces\VS2019\CircunferenciaClassCalc\CircunferenciaClassCalc\bin\Debug\netcoreapp2.2\CircunferenciaClassCalc.pdb
+Z:\Marcelo\Workspaces\VS2019\CircunferenciaClassCalc\CircunferenciaClassCalc\obj\Debug\netcoreapp2.2\CircunferenciaClassCalc.csproj.CoreCompileInputs.cache
+Z:\Marcelo\Workspaces\VS2019\CircunferenciaClassCalc\CircunferenciaClassCalc\obj\Debug\netcoreapp2.2\CircunferenciaClassCalc.AssemblyInfoInputs.cache
+Z:\Marcelo\Workspaces\VS2019\CircunferenciaClassCalc\CircunferenciaClassCalc\obj\Debug\netcoreapp2.2\CircunferenciaClassCalc.AssemblyInfo.cs
+Z:\Marcelo\Workspaces\VS2019\CircunferenciaClassCalc\CircunferenciaClassCalc\obj\Debug\netcoreapp2.2\CircunferenciaClassCalc.dll
+Z:\Marcelo\Workspaces\VS2019\CircunferenciaClassCalc\CircunferenciaClassCalc\obj\Debug\netcoreapp2.2\CircunferenciaClassCalc.pdb
