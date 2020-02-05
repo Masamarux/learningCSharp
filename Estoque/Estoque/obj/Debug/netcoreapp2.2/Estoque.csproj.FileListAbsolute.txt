@@ -1,0 +1,11 @@
+Z:\Marcelo\Workspaces\VS2019\Estoque\Estoque\obj\Debug\netcoreapp2.2\Estoque.csproj.CoreCompileInputs.cache
+Z:\Marcelo\Workspaces\VS2019\Estoque\Estoque\obj\Debug\netcoreapp2.2\Estoque.AssemblyInfoInputs.cache
+Z:\Marcelo\Workspaces\VS2019\Estoque\Estoque\obj\Debug\netcoreapp2.2\Estoque.AssemblyInfo.cs
+Z:\Marcelo\Workspaces\VS2019\Estoque\Estoque\bin\Debug\netcoreapp2.2\Estoque.deps.json
+Z:\Marcelo\Workspaces\VS2019\Estoque\Estoque\bin\Debug\netcoreapp2.2\Estoque.runtimeconfig.json
+Z:\Marcelo\Workspaces\VS2019\Estoque\Estoque\bin\Debug\netcoreapp2.2\Estoque.runtimeconfig.dev.json
+Z:\Marcelo\Workspaces\VS2019\Estoque\Estoque\bin\Debug\netcoreapp2.2\Estoque.dll
+Z:\Marcelo\Workspaces\VS2019\Estoque\Estoque\bin\Debug\netcoreapp2.2\Estoque.pdb
+Z:\Marcelo\Workspaces\VS2019\Estoque\Estoque\obj\Debug\netcoreapp2.2\Estoque.dll
+Z:\Marcelo\Workspaces\VS2019\Estoque\Estoque\obj\Debug\netcoreapp2.2\Estoque.pdb
+Z:\Marcelo\Workspaces\VS2019\Estoque\Estoque\obj\Debug\netcoreapp2.2\Estoque.csprojAssemblyReference.cache
