@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\Marcelo\\Workspaces\\VS2019\\Estoque\\Estoque\\Estoque.csproj": {}
+    "Z:\\Marcelo\\Workspaces\\repos\\learningCSharp\\Estoque\\Estoque\\Estoque.csproj": {}
   },
   "projects": {
-    "Z:\\Marcelo\\Workspaces\\VS2019\\Estoque\\Estoque\\Estoque.csproj": {
+    "Z:\\Marcelo\\Workspaces\\repos\\learningCSharp\\Estoque\\Estoque\\Estoque.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Marcelo\\Workspaces\\VS2019\\Estoque\\Estoque\\Estoque.csproj",
+        "projectUniqueName": "Z:\\Marcelo\\Workspaces\\repos\\learningCSharp\\Estoque\\Estoque\\Estoque.csproj",
         "projectName": "Estoque",
-        "projectPath": "Z:\\Marcelo\\Workspaces\\VS2019\\Estoque\\Estoque\\Estoque.csproj",
+        "projectPath": "Z:\\Marcelo\\Workspaces\\repos\\learningCSharp\\Estoque\\Estoque\\Estoque.csproj",
         "packagesPath": "C:\\Users\\marcelo\\.nuget\\packages\\",
-        "outputPath": "Z:\\Marcelo\\Workspaces\\VS2019\\Estoque\\Estoque\\obj\\",
+        "outputPath": "Z:\\Marcelo\\Workspaces\\repos\\learningCSharp\\Estoque\\Estoque\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
