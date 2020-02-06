@@ -1,0 +1,11 @@
+Z:\Marcelo\Workspaces\VS2019\EmployeeRegister\EmployeeRegister\bin\Debug\netcoreapp2.2\EmployeeRegister.deps.json
+Z:\Marcelo\Workspaces\VS2019\EmployeeRegister\EmployeeRegister\bin\Debug\netcoreapp2.2\EmployeeRegister.runtimeconfig.json
+Z:\Marcelo\Workspaces\VS2019\EmployeeRegister\EmployeeRegister\bin\Debug\netcoreapp2.2\EmployeeRegister.runtimeconfig.dev.json
+Z:\Marcelo\Workspaces\VS2019\EmployeeRegister\EmployeeRegister\bin\Debug\netcoreapp2.2\EmployeeRegister.dll
+Z:\Marcelo\Workspaces\VS2019\EmployeeRegister\EmployeeRegister\bin\Debug\netcoreapp2.2\EmployeeRegister.pdb
+Z:\Marcelo\Workspaces\VS2019\EmployeeRegister\EmployeeRegister\obj\Debug\netcoreapp2.2\EmployeeRegister.csprojAssemblyReference.cache
+Z:\Marcelo\Workspaces\VS2019\EmployeeRegister\EmployeeRegister\obj\Debug\netcoreapp2.2\EmployeeRegister.csproj.CoreCompileInputs.cache
+Z:\Marcelo\Workspaces\VS2019\EmployeeRegister\EmployeeRegister\obj\Debug\netcoreapp2.2\EmployeeRegister.AssemblyInfoInputs.cache
+Z:\Marcelo\Workspaces\VS2019\EmployeeRegister\EmployeeRegister\obj\Debug\netcoreapp2.2\EmployeeRegister.AssemblyInfo.cs
+Z:\Marcelo\Workspaces\VS2019\EmployeeRegister\EmployeeRegister\obj\Debug\netcoreapp2.2\EmployeeRegister.dll
+Z:\Marcelo\Workspaces\VS2019\EmployeeRegister\EmployeeRegister\obj\Debug\netcoreapp2.2\EmployeeRegister.pdb
