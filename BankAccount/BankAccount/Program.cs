@@ -6,7 +6,7 @@ namespace BankAccount {
         static void Main(string[] args) {
             int numeroConta;
             string nome;
-            double valor;
+            double valorInicial, deposito, saque;
             char inicial;
 
             Console.Write("Entre o número da conta: ");
@@ -15,24 +15,31 @@ namespace BankAccount {
             nome = Console.ReadLine();
             Console.Write("Haverá depósito inicial (s/n)?");
             inicial = char.Parse(Console.ReadLine());
+
+            Conta acc = new Conta(nome, numeroConta);
             if (inicial == 's') {
                 Console.Write("Entre o valor do depósito inicial: ");
-                valor = double.Parse(Console.ReadLine());
+                valorInicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             }
             else {
-                valor = 0.00;
+                valorInicial = 0.00;
             }
-            Conta acc = new Conta(nome, numeroConta, valor);
+            acc.Depositar(valorInicial);
+            Console.WriteLine();//quebra de linha
 
-            Console.WriteLine("Dados da conta: ");//fazer tostring override na classe
+            Console.WriteLine("Dados da conta:\n" + acc);//fazer toString override na classe
+            Console.WriteLine();//quebra de linha
 
             Console.Write("Entre um valor para depósito: ");
-            Console.ReadLine();
-            Console.WriteLine("Dados da conta atualizados: ");//novamente com o toString
+            deposito = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            acc.Depositar(deposito);
+            Console.WriteLine($"Dados da conta atualizados:\n{acc}");//novamente com o toString
+            Console.WriteLine();//quebra de linha
 
             Console.Write("Entre um valor para saque: ");
-            Console.ReadLine();
-            Console.WriteLine("Dados da conta atualizados: ");//novamente com o toString
+            saque = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            acc.Sacar(saque);
+            Console.WriteLine($"Dados da conta atualizados:\n{acc}");//novamente com o toString
         }
     }
 }
