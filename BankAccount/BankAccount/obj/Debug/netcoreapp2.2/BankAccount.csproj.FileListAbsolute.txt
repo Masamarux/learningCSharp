@@ -8,3 +8,4 @@ Z:\Marcelo\Workspaces\VS2019\BankAccount\BankAccount\bin\Debug\netcoreapp2.2\Ban
 Z:\Marcelo\Workspaces\VS2019\BankAccount\BankAccount\bin\Debug\netcoreapp2.2\BankAccount.pdb
 Z:\Marcelo\Workspaces\VS2019\BankAccount\BankAccount\obj\Debug\netcoreapp2.2\BankAccount.dll
 Z:\Marcelo\Workspaces\VS2019\BankAccount\BankAccount\obj\Debug\netcoreapp2.2\BankAccount.pdb
+Z:\Marcelo\Workspaces\VS2019\BankAccount\BankAccount\obj\Debug\netcoreapp2.2\BankAccount.csprojAssemblyReference.cache

@@ -17,7 +17,7 @@ namespace BankAccount {
             inicial = char.Parse(Console.ReadLine());
 
             Conta acc = new Conta(nome, numeroConta);
-            if (inicial == 's') {
+            if (inicial == 's' || inicial == 'S') {
                 Console.Write("Entre o valor do depósito inicial: ");
                 valorInicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             }
