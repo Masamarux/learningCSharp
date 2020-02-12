@@ -8,29 +8,24 @@ namespace Files
         static void Main(string[] args)
         {
             string sourcePath = @"z:\marcelo\workspaces\files\file1.txt";//path to a file.txt with some texts
-            /*
-             * FileStream fS = null; 
-             */
-            StreamReader sR = null;
-             
-
 
             try
             {
-                sR = File.OpenText(sourcePath);
-                while (!sR.EndOfStream)
+                using (FileStream fs = new FileStream(sourcePath, FileMode.Open))
                 {
-                    string line = sR.ReadLine();
-                    Console.WriteLine(line);
+                    using (StreamReader sr = new StreamReader(fs))
+                    {
+                        while (!sr.EndOfStream)
+                        {
+                            string line = sr.ReadLine();
+                            Console.WriteLine(line);
+                        }
+                    }
                 }
             }catch(IOException e)
             {
                 Console.WriteLine("An error occurred");
                 Console.WriteLine(e.Message);
-            }
-            finally
-            {
-                if (sR != null) sR.Close();
             }
         }
     }
