@@ -8,14 +8,14 @@ namespace ContractQuotas.Services
 
         public PaypalQuota()
         {
-            SimpleTax = 0.1;
-            PaymentFee = 0.2;
+            SimpleTax = 0.01;
+            PaymentFee = 0.02;
         }
 
         public double QuotaCalc(double amount, int nInstallment)
         {
             double quota = amount;
-            quota = amount * SimpleTax * nInstallment;
+            quota = amount + (amount * SimpleTax * nInstallment);
             quota = quota + quota * PaymentFee;
             return quota;
         }

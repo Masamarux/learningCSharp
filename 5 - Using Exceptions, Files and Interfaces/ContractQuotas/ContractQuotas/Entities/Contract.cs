@@ -26,7 +26,7 @@ namespace ContractQuotas.Entities
 
             for(int i = 0; i < nInstallment; i++)
             {
-                Installments.Add(new Installment(Date.AddMonths(i + 1), i, grossQuota, _paymentService));
+                Installments.Add(new Installment(Date.AddMonths(i + 1), (i + 1), grossQuota, _paymentService));
             }
         }
         public void RemoveInstallment(Installment installment)
